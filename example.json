@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Beth", "last": "Rhodes" },
+      "location": {
+        "street": { "number": 3453, "name": "Valwood Pkwy" },
+        "city": "Newport News",
+        "state": "Vermont",
+        "country": "United States",
+        "postcode": 84012,
+        "coordinates": { "latitude": "82.9210", "longitude": "100.9722" },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "beth.rhodes@example.com",
+      "login": {
+        "uuid": "1baf5d9e-d003-44a1-a11a-fd7edc44612c",
+        "username": "redwolf838",
+        "password": "anaconda",
+        "salt": "dclrQfOh",
+        "md5": "d34986d7e5f98fe0ec3761b6352b7b7c",
+        "sha1": "958c8724791dfd8f179275237ed9a0b2bb41115e",
+        "sha256": "667d3f426517d1409087fee5f1e783c42350456562357a199d12982da5e0d4aa"
+      },
+      "dob": { "date": "1972-01-24T00:54:50.985Z", "age": 51 },
+      "registered": { "date": "2020-08-25T09:41:12.496Z", "age": 2 },
+      "phone": "(832) 501-7769",
+      "cell": "(375) 718-1074",
+      "id": { "name": "SSN", "value": "864-80-3755" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+      },
+      "nat": "US"
+    }
+  ],
+  "info": {
+    "seed": "ca88f538a94105ca",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
